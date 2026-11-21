@@ -1,0 +1,24 @@
+# Keil MDK 忽略文件
+*.uvoptx
+*.uvopt
+*.uvguix.*
+*.uvgui.*
+*.axf
+*.hex
+*.bin
+*.elf
+*.crf
+*.d
+*.o
+*.lnp
+*.sct
+*.tra
+*.dep
+*.htm
+*.map
+*.iex
+*.scvd
+Objects/
+Listings/
+RTE/
+Debug/
